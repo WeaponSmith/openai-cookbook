@@ -33,7 +33,6 @@ export async function completion({
   max_tokens = 800,
   temperature = 0,
   model = "gpt-3.5-turbo",
-  model = "gpt-3.5-turbo",
   ...otherOptions
 }: CompletionOptions) {
   try {
