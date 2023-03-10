@@ -53,7 +53,7 @@ export default async function handler(
 
     const stream = completionStream({
       prompt,
-      model: "text-davinci-003",
+      model: "gpt-3.5-turbo",
     });
 
     // Set the response headers for streaming

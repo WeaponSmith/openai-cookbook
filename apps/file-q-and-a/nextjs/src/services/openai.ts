@@ -32,7 +32,8 @@ export async function completion({
   fallback,
   max_tokens = 800,
   temperature = 0,
-  model = "text-davinci-003",
+  model = "gpt-3.5-turbo",
+  model = "gpt-3.5-turbo",
   ...otherOptions
 }: CompletionOptions) {
   try {
