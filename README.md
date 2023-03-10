@@ -15,7 +15,6 @@ Most code examples are written in Python, though the concepts can be applied in 
 - [Visualize Embeddings in Weights & Biases](https://github.com/openai/openai-cookbook/blob/main/examples/Visualizing_embeddings_in_W%26B.ipynb) [Feb 9th, 2023]
 - [Retrieval Enhanced Generative Question Answering with Pinecone](https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/pinecone/Gen_QA.ipynb) [Feb 8th, 2023]
 
-
 ## Guides & examples
 
 - API usage
